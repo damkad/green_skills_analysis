@@ -8,7 +8,7 @@ This repository contains the code and resources for analyzing green skills in jo
 - **Threshold Optimization**: Iterative process to determine the optimal similarity threshold for balancing precision, recall, and document retrieval rates.
 - **Green Skills Classification**: Secondary step to filter and classify postings containing green skills, aligned with ESCO's taxonomy.
 - **Occupation and Industry Mapping**: Maps job postings to standardized ESCO occupations and ISIC industries for structured classification.
-- **Multi-Region Insights**: Methodology applied to datasets from Egypt, Kenya, and India, enabling cross-regional comparisons of green job trends.
+- **Multi-Region Insights**: Methodology applied to datasets from Egypt, Kenya, and India, enabling cross-regional comparisons of green job trends. In the committed version, I have only committed Philippines data extraction.
 
 ## Technologies Used
 
