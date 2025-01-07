@@ -25,7 +25,7 @@ This repository contains the code and resources for analyzing green skills in jo
 
 ```
 green-skills-analysis/
-├── data/              # Sample datasets and preprocessing scripts
+├── data/              # datasets and preprocessing scripts (data is currently restricted due to confidentiality)
 ├── notebooks/         # Jupyter notebooks for exploratory analysis and methodology demonstration
 ├── README.md          # Project overview and instructions
 ```
